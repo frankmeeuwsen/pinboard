@@ -12,6 +12,7 @@
     "davefeedread": "^0.4.14",
     "daveopml": "^0.4.5",
     "jfs": "^0.3.0",
-    "node-pinboard": "^1.0.0"
+    "node-pinboard": "^1.0.0",
+    "opmltojs": "^0.4.8"
   }
 }

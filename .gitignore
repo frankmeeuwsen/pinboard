@@ -1,5 +1,6 @@
 # Dependency directories
 node_modules/
+data/feeds.opml
 
 .gitignore
 package-lock.json
